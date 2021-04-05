@@ -114,7 +114,7 @@ void dentroDaconta() {
         conta1.depositar();
         break;
       case 3:
-        print('Seu saldo é:${conta1.gsaldo}');
+        print('Seu saldo é:${conta1.gsaldo}\n\n');
         break;
       case 4:
         main();
